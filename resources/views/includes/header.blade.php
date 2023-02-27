@@ -64,7 +64,7 @@
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="https://www.dextools.io/app/en/arbitrum/pair-explorer/">DEXTOOLS</a>
+        <a class="nav-link" href="https://www.dextools.io/app/en/arbitrum/pair-explorer/0x1ae8fdb909653c783c7d8a3e3df669e5bb668ee5">DEXTOOLS</a>
     </li>
 </ul>
 </div>
