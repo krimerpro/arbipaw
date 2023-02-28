@@ -627,7 +627,7 @@ Choose How You Want Us to Care for Your Pet!
 <div class="col col-6 col-lg-3 col-sm-6 wow fadeInRight">
 <div class="counter-style-box">
 <p><i class="pethund_pet_awards"></i></p>
-<div class="counter-txt"><span class="counter">1</span> BNB</div>
+<div class="counter-txt"><span class="counter">2</span> BNB</div>
 <div>INITIAL SUPPLY</div>
 </div>
 </div>
