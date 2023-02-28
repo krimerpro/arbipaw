@@ -4,11 +4,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="AI ERUDEX | MACHINE LEARNING">
-<meta name="keywords" content="arbi, arbitrum, arbipaw, apaw, blockchain, cryptocurrency">
+<meta name="description" content="ARBIPAW | PET CARE & ADOPTION ON BSC">
+<meta name="keywords" content="bsc, smartchain, arbipaw, apaw, blockchain, cryptocurrency">
 <meta name="author" content="ARBIPAW">
 
-<title>ARBIPAW | CUTEST TOKEN ON ARBITRUM</title>
+<title>ARBIPAW | PET CARE & ADOPTION ON BSC</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}" sizes="16x16">
 <link rel="stylesheet" href="{{ asset('css/style.css') }}" type="text/css" media="all" />
 
