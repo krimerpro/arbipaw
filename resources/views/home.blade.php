@@ -615,7 +615,7 @@ Choose How You Want Us to Care for Your Pet!
 <div class="col col-6 col-lg-3 col-sm-6 wow fadeInLeft">
 <div class="counter-style-box">
 <p><i class="pethund_pet_professional"></i></p>
-<div class="counter-txt"><span class="counter">5</span>%</div>
+<div class="counter-txt"><span class="counter">4</span>%</div>
 <div>TRANSACTION TAX</div>
 </div>
 </div>
