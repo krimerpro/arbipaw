@@ -64,7 +64,7 @@
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="https://poocoin.app/tokens/0xd4b6d2d2f29e9588c1874ba33fec917c2a8734e9">CHART</a>
+        <a class="nav-link" href="https://poocoin.app/tokens/0x0aE2A0EDbE28e21076B394a0C3b2334226d43A68">CHART</a>
     </li>
 </ul>
 </div>
