@@ -64,7 +64,7 @@
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="https://www.dextools.io/app/en/bnb/pair-explorer/0x3f0da0ab6cce8d56bd2d2029e354ad3c84077a47">DEXTOOLS</a>
+        <a class="nav-link" href="https://poocoin.app/tokens/0xd4b6d2d2f29e9588c1874ba33fec917c2a8734e9">CHART</a>
     </li>
 </ul>
 </div>
