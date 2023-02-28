@@ -64,7 +64,7 @@
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="https://www.dextools.io/app/en/bnb/pair-explorer/">DEXTOOLS</a>
+        <a class="nav-link" href="https://www.dextools.io/app/en/bnb/pair-explorer/0x3f0da0ab6cce8d56bd2d2029e354ad3c84077a47">DEXTOOLS</a>
     </li>
 </ul>
 </div>
